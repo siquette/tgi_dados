@@ -1,0 +1,476 @@
+"DIAG_PRINC","n","CLASSIF","RESTRSEXO","CAUSAOBITO","DESCRICAO","DESCRABREV","REFER","EXCLUIDOS","...9"
+"J18",526,NA,NA,NA,NA,NA,NA,NA,NA
+"P59",234,NA,NA,NA,NA,NA,NA,NA,NA
+"J21",221,NA,NA,NA,NA,NA,NA,NA,NA
+"P22",175,NA,NA,NA,NA,NA,NA,NA,NA
+"P96",132,NA,NA,NA,NA,NA,NA,NA,NA
+"N47",107,NA,"M","N","Hipertrofia do prepúcio, fimose e parafimose","N47   Hipertrofia do prepucio fimose e parafimose",NA,NA,NA
+"J189",98,NA,NA,NA,"Pneumonia não especificada","J18.9 Pneumonia NE",NA,NA,NA
+"J180",83,NA,NA,NA,"Broncopneumonia não especificada","J18.0 Broncopneumonia NE",NA,NA,NA
+"A09",81,NA,NA,NA,"Diarréia e gastroenterite de origem infecciosa presumível","A09   Diarreia e gastroenterite orig infecc presum",NA,NA,NA
+"P05",79,NA,NA,NA,NA,NA,NA,NA,NA
+"P07",70,NA,NA,NA,NA,NA,NA,NA,NA
+"N39",64,NA,NA,NA,NA,NA,NA,NA,NA
+"P599",64,NA,NA,NA,"Icterícia neonatal não especificada","P59.9 Ictericia neonatal NE",NA,NA,NA
+"P39",57,NA,NA,NA,NA,NA,NA,NA,NA
+"K42",50,NA,NA,NA,NA,NA,NA,NA,NA
+"P70",50,NA,NA,NA,NA,NA,NA,NA,NA
+"L03",47,NA,NA,NA,NA,NA,NA,NA,NA
+"J218",46,NA,NA,NA,"Bronquiolite aguda devida a outros microorganismos especificados","J21.8 Bronquiolite aguda dev outr microorg espec",NA,NA,NA
+"P229",44,NA,NA,NA,"Desconforto respiratório não especificado do recém-nascido","P22.9 Desconforto respirat NE do recem-nascido",NA,NA,NA
+"K40",36,NA,NA,NA,NA,NA,NA,NA,NA
+"N390",33,NA,NA,NA,"Infecção do trato urinário de localização não especificada","N39.0 Infecc do trato urinario de localiz NE",NA,NA,NA
+"G40",31,NA,NA,NA,NA,NA,NA,NA,NA
+"P969",31,NA,NA,NA,"Afecções originadas no período perinatal não especificadas","P96.9 Afeccoes originadas no periodo perinatal NE",NA,NA,NA
+"J15",30,NA,NA,NA,NA,NA,NA,NA,NA
+"S06",30,NA,NA,NA,NA,NA,NA,NA,NA
+"J45",28,NA,NA,NA,NA,NA,NA,NA,NA
+"J35",27,NA,NA,NA,NA,NA,NA,NA,NA
+"J219",26,NA,NA,NA,"Bronquite aguda não especificada","J21.9 Bronquite aguda NE",NA,NA,NA
+"P073",25,NA,NA,NA,"Outros recém-nascidos de pré-termo","P07.3 Outr recem-nascidos de pre-termo",NA,NA,NA
+"K429",24,NA,NA,NA,"Hérnia umbilical sem obstrução ou gangrena","K42.9 Hernia umbilical s/obstrucao ou gangrena",NA,NA,NA
+"A41",23,NA,NA,NA,NA,NA,NA,NA,NA
+"Q53",20,NA,NA,NA,NA,NA,NA,NA,NA
+"P051",19,NA,NA,NA,"Pequeno para a idade gestacional","P05.1 Pequeno p/a idade gestacional",NA,NA,NA
+"D57",18,NA,NA,NA,NA,NA,NA,NA,NA
+"J06",18,NA,NA,NA,NA,NA,NA,NA,NA
+"A419",17,NA,NA,NA,"Septicemia não especificada","A41.9 Septicemia NE",NA,NA,NA
+"C91",16,NA,NA,NA,NA,NA,NA,NA,NA
+"K35",15,NA,NA,NA,NA,NA,NA,NA,NA
+"K409",15,NA,NA,NA,"Hérnia inguinal unilateral ou não especificada, sem obstrução ou gangrena","K40.9 Hernia inguinal unilat NE s/obstr gangrena",NA,NA,NA
+"P08",15,NA,NA,NA,NA,NA,NA,NA,NA
+"P21",15,NA,NA,NA,NA,NA,NA,NA,NA
+"P29",15,NA,NA,NA,NA,NA,NA,NA,NA
+"P399",15,NA,NA,NA,"Infecção própria do período perinatal não especificada","P39.9 Infecc propria do periodo perinatal NE",NA,NA,NA
+"S42",15,NA,NA,NA,NA,NA,NA,NA,NA
+"P220",14,NA,NA,NA,"Síndrome da angústia respiratória do recém-nascido","P22.0 Sindr da angustia respirat do recem-nascido",NA,NA,NA
+"N04",13,NA,NA,NA,NA,NA,NA,NA,NA
+"A49",12,NA,NA,NA,NA,NA,NA,NA,NA
+"P36",12,NA,NA,NA,NA,NA,NA,NA,NA
+"J03",11,NA,NA,NA,NA,NA,NA,NA,NA
+"J04",11,NA,NA,NA,NA,NA,NA,NA,NA
+"T18",11,NA,NA,NA,NA,NA,NA,NA,NA
+"J459",10,NA,NA,NA,"Asma não especificada","J45.9 Asma NE",NA,NA,NA
+"J96",10,NA,NA,NA,NA,NA,NA,NA,NA
+"L02",10,NA,NA,NA,NA,NA,NA,NA,NA
+"N43",10,NA,NA,NA,NA,NA,NA,NA,NA
+"P228",10,NA,NA,NA,"Outros desconfortos respiratórios do recém-nascido","P22.8 Outr desconfortos respirat do recem-nascido",NA,NA,NA
+"P28",10,NA,NA,NA,NA,NA,NA,NA,NA
+"P704",10,NA,NA,NA,"Outras hipoglicemias neonatais","P70.4 Outr hipoglicemias neonatais",NA,NA,NA
+"C910",9,NA,NA,NA,"Leucemia linfoblástica aguda","C91.0 Leucemia linfoblastica aguda",NA,NA,NA
+"H65",9,NA,NA,NA,NA,NA,NA,NA,NA
+"J068",8,NA,NA,"N","Outras infecções agudas das vias aéreas superiores de localizações múltiplas","J06.8 Outr infecc agudas vias aereas sup loc mult",NA,NA,NA
+"L50",8,NA,NA,NA,NA,NA,NA,NA,NA
+"P071",8,NA,NA,NA,"Outros recém-nascidos de peso baixo","P07.1 Outr recem-nascidos de peso baixo",NA,NA,NA
+"P219",8,NA,NA,NA,"Asfixia ao nascer, não especificada","P21.9 Asfixia ao nascer NE",NA,NA,NA
+"Q18",8,NA,NA,NA,NA,NA,NA,NA,NA
+"J039",7,NA,NA,NA,"Amigdalite aguda não especificada","J03.9 Amigdalite aguda NE",NA,NA,NA
+"K56",7,NA,NA,NA,NA,NA,NA,NA,NA
+"K59",7,NA,NA,NA,NA,NA,NA,NA,NA
+"L98",7,NA,NA,NA,NA,NA,NA,NA,NA
+"P92",7,NA,NA,NA,NA,NA,NA,NA,NA
+"Q70",7,NA,NA,NA,NA,NA,NA,NA,NA
+"Z47",7,NA,NA,NA,NA,NA,NA,NA,NA
+"A50",6,NA,NA,NA,NA,NA,NA,NA,NA
+"B01",6,NA,NA,NA,NA,NA,NA,NA,NA
+"F84",6,NA,NA,NA,NA,NA,NA,NA,NA
+"G409",6,NA,NA,NA,"Epilepsia, não especificada","G40.9 Epilepsia NE",NA,NA,NA
+"J154",6,NA,NA,NA,"Pneumonia devida a outros estreptococos","J15.4 Pneumonia dev outr estreptococos",NA,NA,NA
+"J20",6,NA,NA,NA,NA,NA,NA,NA,NA
+"J353",6,NA,NA,"N","Hipertrofia das amígdalas com hipertrofia das adenóides","J35.3 Hipertrofia amigdalas c/hipertrof adenoides",NA,NA,NA
+"J40",6,NA,NA,NA,"Bronquite não especificada como aguda ou crônica","J40   Bronquite NE como aguda ou cronica",NA,NA,NA
+"K12",6,NA,NA,NA,NA,NA,NA,NA,NA
+"K92",6,NA,NA,NA,NA,NA,NA,NA,NA
+"P61",6,NA,NA,NA,NA,NA,NA,NA,NA
+"Q37",6,NA,NA,NA,NA,NA,NA,NA,NA
+"Q54",6,NA,NA,NA,NA,NA,NA,NA,NA
+"Q66",6,NA,NA,NA,NA,NA,NA,NA,NA
+"S068",6,NA,NA,NA,"Outros traumatismos intracranianos","S06.8 Outr traum intracranianos",NA,NA,NA
+"C71",5,NA,NA,NA,NA,NA,NA,NA,NA
+"G91",5,NA,NA,NA,NA,NA,NA,NA,NA
+"H50",5,NA,NA,NA,NA,NA,NA,NA,NA
+"J209",5,NA,NA,NA,"Bronquite aguda não especificada","J20.9 Bronquite aguda NE",NA,NA,NA
+"K30",5,NA,NA,NA,"Dispepsia","K30   Dispepsia",NA,NA,NA
+"K359",5,NA,NA,NA,"Apendicite aguda sem outra especificação","K35.9 Apendicite aguda SOE",NA,NA,NA
+"K402",5,NA,NA,NA,"Hérnia inguinal bilateral, sem obstrução ou gangrena","K40.2 Hernia inguinal bilat s/obstr ou gangrena",NA,NA,NA
+"K52",5,NA,NA,NA,NA,NA,NA,NA,NA
+"L01",5,NA,NA,NA,NA,NA,NA,NA,NA
+"L032",5,NA,NA,NA,"Celulite da face","L03.2 Celulite da face",NA,NA,NA
+"P080",5,NA,NA,NA,"Recém-nascido de tamanho excessivamente grande","P08.0 Recem-nascido tamanho excessivamente grande",NA,NA,NA
+"P24",5,NA,NA,NA,NA,NA,NA,NA,NA
+"Q21",5,NA,NA,NA,NA,NA,NA,NA,NA
+"R104",5,NA,NA,NA,"Outras dores abdominais e as não especificadas","R10.4 Outr dores abdominais e as NE",NA,NA,NA
+"S72",5,NA,NA,NA,NA,NA,NA,NA,NA
+"A46",4,NA,NA,NA,"Erisipela","A46   Erisipela",NA,NA,NA
+"C692",4,NA,NA,NA,"Neoplasia maligna da retina","C69.2 Retina",NA,NA,NA
+"E84",4,NA,NA,NA,NA,NA,NA,NA,NA
+"G00",4,NA,NA,NA,NA,NA,NA,NA,NA
+"G41",4,NA,NA,NA,NA,NA,NA,NA,NA
+"G418",4,NA,NA,NA,"Outros estados de mal epiléptico","G41.8 Outr estados de mal epileptico",NA,NA,NA
+"H66",4,NA,NA,NA,NA,NA,NA,NA,NA
+"J36",4,NA,NA,NA,"Abscesso periamigdaliano","J36   Abscesso periamigdaliano",NA,NA,NA
+"K21",4,NA,NA,NA,NA,NA,NA,NA,NA
+"K219",4,NA,NA,NA,"Doença de refluxo gastroesofágico sem esofagite","K21.9 Doenc de refluxo gastroesofagico s/esofagite",NA,NA,NA
+"K929",4,NA,NA,NA,"Doença do aparelho digestivo, sem outra especificação","K92.9 Doenc do aparelho digestivo SOE",NA,NA,NA
+"L030",4,NA,NA,"N","Celulite de dedos das mãos e dos pés","L03.0 Celulite de dedos das maos e dos pes",NA,NA,NA
+"L031",4,NA,NA,NA,"Celulite de outras partes do(s) membro(s)","L03.1 Celulite de outr partes de membros",NA,NA,NA
+"N30",4,NA,NA,NA,NA,NA,NA,NA,NA
+"P13",4,NA,NA,NA,NA,NA,NA,NA,NA
+"P298",4,NA,NA,NA,"Outros transtornos cardiovasculares originados no período perinatal","P29.8 Outr transt cardiovasc orig periodo perinat",NA,NA,NA
+"P55",4,NA,NA,NA,NA,NA,NA,NA,NA
+"Q22",4,NA,NA,NA,NA,NA,NA,NA,NA
+"R11",4,NA,NA,NA,"Náusea e vômitos","R11   Nausea e vomitos",NA,NA,NA
+"R509",4,NA,NA,NA,"Febre não especificada","R50.9 Febre NE",NA,NA,NA
+"S82",4,NA,NA,NA,NA,NA,NA,NA,NA
+"T21",4,NA,NA,NA,NA,NA,NA,NA,NA
+"A37",3,NA,NA,NA,NA,NA,NA,NA,NA
+"A879",3,NA,NA,NA,"Meningite viral não especificada","A87.9 Meningite viral NE",NA,NA,NA
+"B95",3,NA,NA,NA,NA,NA,NA,NA,NA
+"D50",3,NA,NA,NA,NA,NA,NA,NA,NA
+"D570",3,NA,NA,NA,"Anemia falciforme com crise","D57.0 Anemia falciforme c/crise",NA,NA,NA
+"D69",3,NA,NA,NA,NA,NA,NA,NA,NA
+"E86",3,NA,NA,NA,"Depleção de volume","E86   Deplecao de volume",NA,NA,NA
+"F840",3,NA,NA,NA,"Autismo infantil","F84.0 Autismo infantil",NA,NA,NA
+"G54",3,NA,NA,NA,NA,NA,NA,NA,NA
+"G58",3,NA,NA,NA,NA,NA,NA,NA,NA
+"H659",3,NA,NA,NA,"Otite média não-supurativa, não especificada","H65.9 Otite media nao-supurativa NE",NA,NA,NA
+"K31",3,NA,NA,NA,NA,NA,NA,NA,NA
+"K43",3,NA,NA,NA,NA,NA,NA,NA,NA
+"M00",3,NA,NA,NA,NA,NA,NA,NA,NA
+"N049",3,NA,NA,NA,"Síndrome nefrótica - não especificada","N04.9 NE",NA,NA,NA
+"P00",3,NA,NA,NA,NA,NA,NA,NA,NA
+"P240",3,NA,NA,NA,"Aspiração neonatal de mecônio","P24.0 Aspiracao neonatal de meconio",NA,NA,NA
+"P369",3,NA,NA,NA,"Septicemia bacteriana não especificada do recém-nascido","P36.9 Septicemia bacter NE do recem-nascido",NA,NA,NA
+"P50",3,NA,NA,NA,NA,NA,NA,NA,NA
+"R10",3,NA,NA,NA,NA,NA,NA,NA,NA
+"R50",3,NA,NA,NA,NA,NA,NA,NA,NA
+"S01",3,NA,NA,NA,NA,NA,NA,NA,NA
+"S424",3,NA,NA,NA,"Fratura da extremidade inferior do úmero","S42.4 Frat da extremidade infer do umero",NA,NA,NA
+"S524",3,NA,NA,NA,"Fratura das diáfises do rádio e do cúbito [ulna]","S52.4 Frat das diafises do radio e do cubito",NA,NA,NA
+"T07",3,NA,NA,NA,"Traumatismos múltiplos não especificados","T07   Traum mult NE",NA,NA,NA
+"Z03",3,NA,NA,NA,NA,NA,NA,NA,NA
+"Z98",3,NA,NA,NA,NA,NA,NA,NA,NA
+"A48",2,NA,NA,NA,NA,NA,NA,NA,NA
+"A509",2,NA,NA,NA,"Sífilis congênita não especificada","A50.9 Sifilis congen NE",NA,NA,NA
+"B018",2,NA,NA,NA,"Varicela com outras complicações","B01.8 Varicela c/outr complic",NA,NA,NA
+"B34",2,NA,NA,NA,NA,NA,NA,NA,NA
+"C479",2,NA,NA,NA,"Neoplasia maligna dos nervos periféricos e sistema nervoso autônomo, não especificados","C47.9 Nervos perifericos e sist nerv autonomo NE",NA,NA,NA
+"C780",2,NA,NA,NA,"Neoplasia maligna secundária dos pulmões","C78.0 Neopl malig secund dos pulmoes",NA,NA,NA
+"D14",2,NA,NA,NA,NA,NA,NA,NA,NA
+"D18",2,NA,NA,NA,NA,NA,NA,NA,NA
+"D43",2,NA,NA,NA,NA,NA,NA,NA,NA
+"D571",2,NA,NA,NA,"Anemia falciforme sem crise","D57.1 Anemia falciforme s/crise",NA,NA,NA
+"D58",2,NA,NA,NA,NA,NA,NA,NA,NA
+"D61",2,NA,NA,NA,NA,NA,NA,NA,NA
+"E840",2,NA,NA,NA,"Fibrose cística com manifestações pulmonares","E84.0 Fibrose cistica c/manifestacoes pulmonares",NA,NA,NA
+"E88",2,NA,NA,NA,NA,NA,NA,NA,NA
+"G96",2,NA,NA,NA,NA,NA,NA,NA,NA
+"H04",2,NA,NA,NA,NA,NA,NA,NA,NA
+"H40",2,NA,NA,NA,NA,NA,NA,NA,NA
+"H919",2,NA,NA,"N","Perda não especificada de audição","H91.9 Perda NE de audicao",NA,NA,NA
+"I21",2,NA,NA,NA,NA,NA,NA,NA,NA
+"I64",2,NA,NA,NA,"Acidente vascular cerebral, não especificado como hemorrágico ou isquêmico","I64   Acid vasc cerebr NE como hemorrag isquemico",NA,NA,NA
+"I889",2,NA,NA,NA,"Linfadenite não especificada","I88.9 Linfadenite NE",NA,NA,NA
+"J159",2,NA,NA,NA,"Pneumonia bacteriana não especificada","J15.9 Pneumonia bacter NE",NA,NA,NA
+"J210",2,NA,NA,NA,"Bronquiolite aguda devida a vírus sincicial respiratório","J21.0 Bronquiolite aguda dev virus sincicial resp",NA,NA,NA
+"J95",2,NA,NA,NA,NA,NA,NA,NA,NA
+"J960",2,NA,NA,NA,"Insuficiência respiratória aguda","J96.0 Insuf respirat aguda",NA,NA,NA
+"J98",2,NA,NA,NA,NA,NA,NA,NA,NA
+"K122",2,NA,NA,NA,"Celulite e abscesso da boca","K12.2 Celulite e abscesso da boca",NA,NA,NA
+"K20",2,NA,NA,NA,"Esofagite","K20   Esofagite",NA,NA,NA
+"K29",2,NA,NA,NA,NA,NA,NA,NA,NA
+"K41",2,NA,NA,NA,NA,NA,NA,NA,NA
+"L08",2,NA,NA,NA,NA,NA,NA,NA,NA
+"L20",2,NA,NA,NA,NA,NA,NA,NA,NA
+"L500",2,NA,NA,NA,"Urticária alérgica","L50.0 Urticaria alergica",NA,NA,NA
+"L72",2,NA,NA,NA,NA,NA,NA,NA,NA
+"L720",2,NA,NA,"N","Cisto epidérmico","L72.0 Cisto epidermico",NA,NA,NA
+"L95",2,NA,NA,NA,NA,NA,NA,NA,NA
+"L989",2,NA,NA,"N","Afecções da pele e do tecido subcutâneo, não especificados","L98.9 Afeccoes da pele e do tec subcutaneo NE",NA,NA,NA
+"M13",2,NA,NA,NA,NA,NA,NA,NA,NA
+"M60",2,NA,NA,NA,NA,NA,NA,NA,NA
+"M609",2,NA,NA,"N","Miosite não especificada","M60.9 Miosite NE",NA,NA,NA
+"N20",2,NA,NA,NA,NA,NA,NA,NA,NA
+"N433",2,NA,"M",NA,"Hidrocele não especificada","N43.3 Hidrocele NE",NA,NA,NA
+"P002",2,NA,NA,NA,"Feto e recém-nascido afetados por doenças infecciosas e parasitárias da mãe","P00.2 Fet rec-nasc afet doenc infecc parasit mae",NA,NA,NA
+"P050",2,NA,NA,NA,"Recém-nascido de baixo peso para a idade gestacional","P05.0 Recem-nascido de baixo peso p/a idade gestac",NA,NA,NA
+"P081",2,NA,NA,NA,"Outros recém-nascidos grandes para a idade gestacional","P08.1 Outr recem-nascidos grandes p/a idade gestac",NA,NA,NA
+"P210",2,NA,NA,NA,"Asfixia grave ao nascer","P21.0 Asfixia grave ao nascer",NA,NA,NA
+"P299",2,NA,NA,NA,"Transtornos cardiovasculares não especificados originados no período perinatal","P29.9 Transt cardiovasc NE orig periodo perinatal",NA,NA,NA
+"P398",2,NA,NA,NA,"Outras infecções especificadas próprias do período perinatal","P39.8 Outr infecc espec proprias periodo perinatal",NA,NA,NA
+"Q210",2,NA,NA,NA,"Comunicação interventricular","Q21.0 Comunicacao interventricular",NA,NA,NA
+"Q24",2,NA,NA,NA,NA,NA,NA,NA,NA
+"Q250",2,NA,NA,NA,"Permeabilidade do canal arterial","Q25.0 Permeabilidade do canal arterial",NA,NA,NA
+"Q40",2,NA,NA,NA,NA,NA,NA,NA,NA
+"Q42",2,NA,NA,NA,NA,NA,NA,NA,NA
+"Q549",2,NA,"M",NA,"Hipospádia não especificada","Q54.9 Hipospadia NE",NA,NA,NA
+"Q62",2,NA,NA,NA,NA,NA,NA,NA,NA
+"Q699",2,NA,NA,"N","Polidactilia não especificada","Q69.9 Polidactilia NE",NA,NA,NA
+"Q79",2,NA,NA,NA,NA,NA,NA,NA,NA
+"R51",2,NA,NA,NA,"Cefaléia","R51   Cefaleia",NA,NA,NA
+"R56",2,NA,NA,NA,NA,NA,NA,NA,NA
+"S120",2,NA,NA,NA,"Fratura da primeira vértebra cervical","S12.0 Frat da primeira vertebra cervical",NA,NA,NA
+"S53",2,NA,NA,NA,NA,NA,NA,NA,NA
+"S681",2,NA,NA,NA,"Amputação traumática de um outro dedo apenas (completa) (parcial)","S68.1 Amput traum de um outr dedo apenas",NA,NA,NA
+"T01",2,NA,NA,NA,NA,NA,NA,NA,NA
+"T06",2,NA,NA,NA,NA,NA,NA,NA,NA
+"T189",2,NA,NA,NA,"Corpo estranho em parte não especificada do aparelho digestivo","T18.9 Corpo estranho em parte NE ap digestivo",NA,NA,NA
+"T29",2,NA,NA,NA,NA,NA,NA,NA,NA
+"T42",2,NA,NA,NA,NA,NA,NA,NA,NA
+"T65",2,NA,NA,NA,NA,NA,NA,NA,NA
+"T82",2,NA,NA,NA,NA,NA,NA,NA,NA
+"T84",2,NA,NA,NA,NA,NA,NA,NA,NA
+"Z948",2,NA,NA,NA,"Outros órgãos e tecidos transplantados","Z94.8 Outr orgaos e tec transplantados",NA,NA,NA
+"A07",1,NA,NA,NA,NA,NA,NA,NA,NA
+"A08",1,NA,NA,NA,NA,NA,NA,NA,NA
+"A31",1,NA,NA,NA,NA,NA,NA,NA,NA
+"A498",1,NA,NA,NA,"Outras infecções bacterianas de localização não especificada","A49.8 Outr infecc bacterianas localiz NE",NA,NA,NA
+"A499",1,NA,NA,NA,"Infecção bacteriana não especificada","A49.9 Infecc bacter NE",NA,NA,NA
+"A501",1,NA,NA,NA,"Sífilis congênita precoce, forma latente","A50.1 Sifilis congen precoce form latente",NA,NA,NA
+"A86",1,NA,NA,NA,"Encefalite viral, não especificada","A86   Encefalite viral NE",NA,NA,NA
+"A87",1,NA,NA,NA,NA,NA,NA,NA,NA
+"A878",1,NA,NA,NA,"Outras meningites virais","A87.8 Outr meningites virais",NA,NA,NA
+"A89",1,NA,NA,NA,"Infecções virais não especificadas do sistema nervoso central","A89   Infecc virais NE do sist nervoso central",NA,NA,NA
+"B019",1,NA,NA,NA,"Varicela sem complicação","B01.9 Varicela s/complic",NA,NA,NA
+"B20",1,NA,NA,NA,NA,NA,NA,NA,NA
+"B25",1,NA,NA,NA,NA,NA,NA,NA,NA
+"B35",1,NA,NA,NA,NA,NA,NA,NA,NA
+"B350",1,NA,NA,"N","Tinha da barba e do couro cabeludo","B35.0 Tinha da barba e do couro cabeludo",NA,NA,NA
+"B550",1,NA,NA,NA,"Leishmaniose visceral","B55.0 Leishmaniose visceral",NA,NA,NA
+"C49",1,NA,NA,NA,NA,NA,NA,NA,NA
+"C719",1,NA,NA,NA,"Neoplasia maligna do encéfalo, não especificado","C71.9 Encefalo NE",NA,NA,NA
+"C751",1,NA,NA,NA,"Neoplasia maligna da glândula hipófise (pituitária)","C75.1 Gland hipofise",NA,NA,NA
+"C76",1,NA,NA,NA,NA,NA,NA,NA,NA
+"C92",1,NA,NA,NA,NA,NA,NA,NA,NA
+"D16",1,NA,NA,NA,NA,NA,NA,NA,NA
+"D33",1,NA,NA,NA,NA,NA,NA,NA,NA
+"D39",1,NA,NA,NA,NA,NA,NA,NA,NA
+"D439",1,NA,NA,NA,"Neoplasia de comportamento incerto ou desconhecido do sistema nervoso central, não especificado","D43.9 Sist nervoso central NE",NA,NA,NA
+"D467",1,NA,NA,NA,"Outras síndromes mielodisplásicas","D46.7 Outr sindr mielodisplasicas",NA,NA,NA
+"D47",1,NA,NA,NA,NA,NA,NA,NA,NA
+"D489",1,NA,NA,NA,"Neoplasia de comportamento incerto ou desconhecido sem outra especificação","D48.9 Neopl comp incerto/desconhecido s/outr espec",NA,NA,NA
+"D509",1,NA,NA,NA,"Anemia por deficiência de ferro não especificada","D50.9 Anemia p/defic de ferro NE",NA,NA,NA
+"D53",1,NA,NA,NA,NA,NA,NA,NA,NA
+"D580",1,NA,NA,NA,"Esferocitose hereditária","D58.0 Esferocitose hereditaria",NA,NA,NA
+"D590",1,NA,NA,NA,"Anemia hemolítica auto-imune induzida por droga","D59.0 Anemia hemolitica auto-imune induz p/droga",NA,NA,NA
+"D608",1,NA,NA,NA,"Outras aplasias puras adquiridas da série vermelha","D60.8 Outr aplasias puras adq serie vermelha",NA,NA,NA
+"D610",1,NA,NA,NA,"Anemia aplástica constitucional","D61.0 Anemia aplastica constitucional",NA,NA,NA
+"D64",1,NA,NA,NA,NA,NA,NA,NA,NA
+"D690",1,NA,NA,NA,"Púrpura alérgica","D69.0 Purpura alergica",NA,NA,NA
+"D693",1,NA,NA,NA,"Púrpura trombocitopênica idiopática","D69.3 Purpura trombocitopenica idiopatica",NA,NA,NA
+"D75",1,NA,NA,NA,NA,NA,NA,NA,NA
+"D758",1,NA,NA,NA,"Outras doenças especificadas do sangue e dos órgãos hematopoéticos","D75.8 Outr doenc espec sangue e org hematopoeticos",NA,NA,NA
+"D759",1,NA,NA,NA,"Doença não especificada do sangue e dos órgãos hematopoéticos","D75.9 Doenc NE do sangue e orgaos hematopoeticos",NA,NA,NA
+"E45",1,NA,NA,NA,"Atraso do desenvolvimento devido à desnutrição protéico-calórica","E45   Atraso desenv dev desnutric proteico-caloric",NA,NA,NA
+"E720",1,NA,NA,NA,"Distúrbios do transporte de aminoácidos","E72.0 Disturbios do transporte de aminoacidos",NA,NA,NA
+"E876",1,NA,NA,NA,"Hipopotassemia","E87.6 Hipopotassemia",NA,NA,NA
+"E889",1,NA,NA,NA,"Distúrbio metabólico não especificado","E88.9 Disturbio metabolico NE",NA,NA,NA
+"G408",1,NA,NA,NA,"Outras epilepsias","G40.8 Outr epilepsias",NA,NA,NA
+"G80",1,NA,NA,NA,NA,NA,NA,NA,NA
+"G919",1,NA,NA,NA,"Hidrocefalia não especificada","G91.9 Hidrocefalia NE",NA,NA,NA
+"G92",1,NA,NA,NA,"Encefalopatia tóxica","G92   Encefalopatia toxica",NA,NA,NA
+"G94",1,NA,NA,NA,NA,NA,NA,NA,NA
+"H050",1,NA,NA,NA,"Inflamação aguda da órbita","H05.0 Inflam aguda da orbita",NA,NA,NA
+"H26",1,NA,NA,NA,NA,NA,NA,NA,NA
+"H33",1,NA,NA,NA,NA,NA,NA,NA,NA
+"H618",1,NA,NA,"N","Outros transtornos especificados do ouvido externo","H61.8 Outr transt espec do ouvido externo",NA,NA,NA
+"H62",1,NA,NA,NA,NA,NA,NA,NA,NA
+"H660",1,NA,NA,NA,"Otite média aguda supurativa","H66.0 Otite media aguda supurativa",NA,NA,NA
+"H664",1,NA,NA,NA,"Otite média supurativa não especificada","H66.4 Otite media supurativa NE",NA,NA,NA
+"H669",1,NA,NA,NA,"Otite média não especificada","H66.9 Otite media NE",NA,NA,NA
+"H671",1,"*",NA,NA,"Otite média em doenças virais classificadas em outra parte","H67.1 Otite media em doenc virais COP",NA,NA,NA
+"H74",1,NA,NA,NA,NA,NA,NA,NA,NA
+"H90",1,NA,NA,NA,NA,NA,NA,NA,NA
+"H905",1,NA,NA,"N","Perda de audição neuro-sensorial não especificada","H90.5 Perda de audicao neuro-sensorial NE",NA,NA,NA
+"H938",1,NA,NA,"N","Outros transtornos especificados do ouvido","H93.8 Outr transt espec do ouvido",NA,NA,NA
+"I05",1,NA,NA,NA,NA,NA,NA,NA,NA
+"I35",1,NA,NA,NA,NA,NA,NA,NA,NA
+"I42",1,NA,NA,NA,NA,NA,NA,NA,NA
+"I44",1,NA,NA,NA,NA,NA,NA,NA,NA
+"I50",1,NA,NA,NA,NA,NA,NA,NA,NA
+"I60",1,NA,NA,NA,NA,NA,NA,NA,NA
+"I62",1,NA,NA,NA,NA,NA,NA,NA,NA
+"I74",1,NA,NA,NA,NA,NA,NA,NA,NA
+"I743",1,NA,NA,NA,"Embolia e trombose de artérias dos membros inferiores","I74.3 Embolia e trombose de arterias membros infer",NA,NA,NA
+"I748",1,NA,NA,NA,"Embolia e trombose de outras artérias","I74.8 Embolia e trombose de outr arterias",NA,NA,NA
+"I77",1,NA,NA,NA,NA,NA,NA,NA,NA
+"I88",1,NA,NA,NA,NA,NA,NA,NA,NA
+"J00",1,NA,NA,"N","Nasofaringite aguda [resfriado comum]","J00   Nasofaringite aguda",NA,NA,NA
+"J030",1,NA,NA,NA,"Amigdalite estreptocócica","J03.0 Amigdalite estreptococica",NA,NA,NA
+"J040",1,NA,NA,NA,"Laringite aguda","J04.0 Laringite aguda",NA,NA,NA
+"J042",1,NA,NA,NA,"Laringotraqueíte aguda","J04.2 Laringotraqueite aguda",NA,NA,NA
+"J111",1,NA,NA,NA,"Influenza [gripe] com outras manifestações respiratórias, devida a vírus não identificado","J11.1 Influenza c/out manif resp dev virus n ident",NA,NA,NA
+"J32",1,NA,NA,NA,NA,NA,NA,NA,NA
+"J330",1,NA,NA,"N","Pólipo da cavidade nasal","J33.0 Polipo da cavidade nasal",NA,NA,NA
+"J351",1,NA,NA,"N","Hipertrofia das amígdalas","J35.1 Hipertrofia das amigdalas",NA,NA,NA
+"J352",1,NA,NA,"N","Hipertrofia das adenóides","J35.2 Hipertrofia das adenoides",NA,NA,NA
+"J371",1,NA,NA,NA,"Laringotraqueíte crônica","J37.1 Laringotraqueite cronica",NA,NA,NA
+"J42",1,NA,NA,NA,"Bronquite crônica não especificada","J42   Bronquite cronica NE",NA,NA,NA
+"J44",1,NA,NA,NA,NA,NA,NA,NA,NA
+"J46",1,NA,NA,NA,"Estado de mal asmático","J46   Estado de mal asmatico",NA,NA,NA
+"J849",1,NA,NA,NA,"Doença pulmonar intersticial não especificadas","J84.9 Doenc pulmonar intersticial NE",NA,NA,NA
+"J85",1,NA,NA,NA,NA,NA,NA,NA,NA
+"J988",1,NA,NA,NA,"Outros transtornos respiratórios especificados","J98.8 Outr transt respirat espec",NA,NA,NA
+"K04",1,NA,NA,NA,NA,NA,NA,NA,NA
+"K05",1,NA,NA,NA,NA,NA,NA,NA,NA
+"K13",1,NA,NA,NA,NA,NA,NA,NA,NA
+"K137",1,NA,NA,NA,"Outras lesões e as não especificadas da mucosa oral","K13.7 Outr lesoes e as NE da mucosa oral",NA,NA,NA
+"K210",1,NA,NA,NA,"Doença de refluxo gastroesofágico com esofagite","K21.0 Doenc de refluxo gastroesofagico c/esofagite",NA,NA,NA
+"K22",1,NA,NA,NA,NA,NA,NA,NA,NA
+"K28",1,NA,NA,NA,NA,NA,NA,NA,NA
+"K319",1,NA,NA,NA,"Doenças do estômago e do duodeno, sem outra especificação","K31.9 Doenc do estomago e do duodeno SOE",NA,NA,NA
+"K351",1,NA,NA,NA,"Apendicite aguda com abscesso peritonial","K35.1 Apendicite aguda c/abscesso peritonial",NA,NA,NA
+"K403",1,NA,NA,NA,"Hérnia inguinal unilateral ou não especificada, com obstrução sem gangrena","K40.3 Hernia inguinal unilat NE c/obstr s/gangrena",NA,NA,NA
+"K45",1,NA,NA,NA,NA,NA,NA,NA,NA
+"K561",1,NA,NA,NA,"Intussuscepção","K56.1 Intussuscepcao",NA,NA,NA
+"K564",1,NA,NA,NA,"Outras obstruções do intestino","K56.4 Outr obstrucoes do intestino",NA,NA,NA
+"K598",1,NA,NA,NA,"Outros transtornos funcionais especificados do intestino","K59.8 Outr transt funcionais espec do intestino",NA,NA,NA
+"K60",1,NA,NA,NA,NA,NA,NA,NA,NA
+"K62",1,NA,NA,NA,NA,NA,NA,NA,NA
+"K63",1,NA,NA,NA,NA,NA,NA,NA,NA
+"K638",1,NA,NA,NA,"Outras doenças especificadas do intestino","K63.8 Outr doenc espec do intestino",NA,NA,NA
+"K668",1,NA,NA,NA,"Outras afecções especificadas do peritônio","K66.8 Outr afeccoes espec do peritonio",NA,NA,NA
+"K72",1,NA,NA,NA,NA,NA,NA,NA,NA
+"K758",1,NA,NA,NA,"Outras doenças hepáticas inflamatórias especificadas","K75.8 Outr doenc hepaticas inflam espec",NA,NA,NA
+"K77",1,NA,NA,NA,NA,NA,NA,NA,NA
+"L024",1,NA,NA,NA,"Abscesso cutâneo, furúnculo e antraz do(s) membro(s)","L02.4 Abscesso cutaneo furunculo e antraz membros",NA,NA,NA
+"L028",1,NA,NA,NA,"Abscesso cutâneo, furúnculo e antraz de outras localizações","L02.8 Abscesso cutaneo furunculo e antraz outr loc",NA,NA,NA
+"L038",1,NA,NA,NA,"Celulite de outros locais","L03.8 Celulite de outr locais",NA,NA,NA
+"L048",1,NA,NA,"N","Linfadenite aguda de outras localizações","L04.8 Linfadenite aguda de outr localiz",NA,NA,NA
+"L209",1,NA,NA,"N","Dermatite atópica, não especificada","L20.9 Dermatite atopica NE",NA,NA,NA
+"L30",1,NA,NA,NA,NA,NA,NA,NA,NA
+"L303",1,NA,NA,"N","Dermatite infectada","L30.3 Dermatite infectada",NA,NA,NA
+"L508",1,NA,NA,NA,"Outras urticárias","L50.8 Outr urticarias",NA,NA,NA
+"L55",1,NA,NA,NA,NA,NA,NA,NA,NA
+"L89",1,NA,NA,NA,"Úlcera de decúbito","L89   Ulcera de decubito",NA,NA,NA
+"L94",1,NA,NA,NA,NA,NA,NA,NA,NA
+"L99",1,NA,NA,NA,NA,NA,NA,NA,NA
+"M008",1,NA,NA,NA,"Artrite e poliartrite devidas a outro agente bacteriano especificado","M00.8 Artrite poliartr dev outr agent bacter espec",NA,NA,NA
+"M02",1,NA,NA,NA,NA,NA,NA,NA,NA
+"M06",1,NA,NA,NA,NA,NA,NA,NA,NA
+"M24",1,NA,NA,NA,NA,NA,NA,NA,NA
+"M25",1,NA,NA,NA,NA,NA,NA,NA,NA
+"M43",1,NA,NA,NA,NA,NA,NA,NA,NA
+"M464",1,NA,NA,NA,"Discite não especificada","M46.4 Discite NE",NA,NA,NA
+"M65",1,NA,NA,NA,NA,NA,NA,NA,NA
+"M79",1,NA,NA,NA,NA,NA,NA,NA,NA
+"M84",1,NA,NA,NA,NA,NA,NA,NA,NA
+"M86",1,NA,NA,NA,NA,NA,NA,NA,NA
+"N039",1,NA,NA,NA,"Síndrome nefrítica crônica - não especificada","N03.9 NE",NA,NA,NA
+"N05",1,NA,NA,NA,NA,NA,NA,NA,NA
+"N11",1,NA,NA,NA,NA,NA,NA,NA,NA
+"N118",1,NA,NA,NA,"Outras nefrites túbulo-intersticiais crônicas","N11.8 Outr nefrites tubulo-intersticiais cronicas",NA,NA,NA
+"N130",1,NA,NA,NA,"Hidronefrose com obstrução da junção uretero-pélvica","N13.0 Hidronefrose c/obstr juncao uretero-pelvica",NA,NA,NA
+"N210",1,NA,NA,NA,"Calculose na bexiga","N21.0 Calculose na bexiga",NA,NA,NA
+"N25",1,NA,NA,NA,NA,NA,NA,NA,NA
+"N31",1,NA,NA,NA,NA,NA,NA,NA,NA
+"N322",1,NA,NA,NA,"Fístula vesical não classificada em outra parte","N32.2 Fistula vesical NCOP",NA,NA,NA
+"N338",1,"*",NA,NA,"Transtornos da bexiga em outras doenças classificadas em outra parte","N33.8 Transt da bexiga em outr doenc COP",NA,NA,NA
+"N35",1,NA,NA,NA,NA,NA,NA,NA,NA
+"N459",1,NA,"M",NA,"Orquite, epididimite e epidídimo-orquite, sem menção de abscesso","N45.9 Orquite epidid epididimo-orquite s/menc absc",NA,NA,NA
+"P070",1,NA,NA,NA,"Recém-nascido com peso muito baixo","P07.0 Recem-nascido c/peso muito baixo",NA,NA,NA
+"P072",1,NA,NA,NA,"Imaturidade extrema","P07.2 Imaturidade extrema",NA,NA,NA
+"P14",1,NA,NA,NA,NA,NA,NA,NA,NA
+"P211",1,NA,NA,NA,"Asfixia leve ou moderada ao nascer","P21.1 Asfixia leve ou moderada ao nascer",NA,NA,NA
+"P282",1,NA,NA,NA,"Crises cianóticas do recém-nascido","P28.2 Crises cianoticas do recem-nascido",NA,NA,NA
+"P285",1,NA,NA,NA,"Insuficiência respiratória do recém-nascido","P28.5 Insuf respirat do recem-nascido",NA,NA,NA
+"P289",1,NA,NA,NA,"Afecção respiratória do recém-nascido, não especificada","P28.9 Afeccao respirat do recem-nascido NE",NA,NA,NA
+"P290",1,NA,NA,NA,"Insuficiência cardíaca neonatal","P29.0 Insuf cardiaca neonatal",NA,NA,NA
+"P35",1,NA,NA,NA,NA,NA,NA,NA,NA
+"P363",1,NA,NA,NA,"Septicemia do recém-nascido devida a outros estafilococos e aos não especificados","P36.3 Septicemia rec-nasc dev outr estafiloc e NE",NA,NA,NA
+"P378",1,NA,NA,NA,"Outras doenças infecciosas e parasitárias congênitas especificadas","P37.8 Outr doenc infecc e parasit congen espec",NA,NA,NA
+"P390",1,NA,NA,NA,"Mastite infecciosa neonatal","P39.0 Mastite infecc neonatal",NA,NA,NA
+"P509",1,NA,NA,NA,"Perda sangüínea fetal não especificada","P50.9 Perda sanguinea fetal NE",NA,NA,NA
+"P54",1,NA,NA,NA,NA,NA,NA,NA,NA
+"P540",1,NA,NA,NA,"Hematêmese neonatal","P54.0 Hematemese neonatal",NA,NA,NA
+"P550",1,NA,NA,NA,"Isoimunização Rh do feto e do recém-nascido","P55.0 Isoimunizacao Rh do feto e do recem-nascido",NA,NA,NA
+"P58",1,NA,NA,NA,NA,NA,NA,NA,NA
+"P703",1,NA,NA,NA,"Hipoglicemia neonatal iatrogênica","P70.3 Hipoglicemia neonatal iatrogenica",NA,NA,NA
+"P710",1,NA,NA,NA,"Hipocalcemia do recém-nascido pelo uso de leite de vaca","P71.0 Hipocalcemia recem-nascido p/uso leite vaca",NA,NA,NA
+"P74",1,NA,NA,NA,NA,NA,NA,NA,NA
+"P769",1,NA,NA,NA,"Obstrução intestinal não especificada do recém-nascido","P76.9 Obstrucao intestinal NE do recem-nascido",NA,NA,NA
+"P81",1,NA,NA,NA,NA,NA,NA,NA,NA
+"P83",1,NA,NA,NA,NA,NA,NA,NA,NA
+"P920",1,NA,NA,NA,"Vômitos no recém-nascido","P92.0 Vomitos no recem-nascido",NA,NA,NA
+"P925",1,NA,NA,NA,"Dificuldade neonatal na amamentação no peito","P92.5 Dificuldade neonatal na amamentacao no peito",NA,NA,NA
+"P94",1,NA,NA,NA,NA,NA,NA,NA,NA
+"P963",1,NA,NA,NA,"Suturas cranianas amplas no recém-nascido","P96.3 Suturas cranianas amplas no recem-nascido",NA,NA,NA
+"Q02",1,NA,NA,NA,"Microcefalia","Q02   Microcefalia",NA,NA,NA
+"Q03",1,NA,NA,NA,NA,NA,NA,NA,NA
+"Q06",1,NA,NA,NA,NA,NA,NA,NA,NA
+"Q150",1,NA,NA,"N","Glaucoma congênito","Q15.0 Glaucoma congen",NA,NA,NA
+"Q17",1,NA,NA,NA,NA,NA,NA,NA,NA
+"Q20",1,NA,NA,NA,NA,NA,NA,NA,NA
+"Q206",1,NA,NA,NA,"Isomerismo dos apêndices atriais","Q20.6 Isomerismo dos apendices atriais",NA,NA,NA
+"Q218",1,NA,NA,NA,"Outras malformações congênitas dos septos cardíacos","Q21.8 Outr malformacoes congen septos cardiacos",NA,NA,NA
+"Q23",1,NA,NA,NA,NA,NA,NA,NA,NA
+"Q233",1,NA,NA,NA,"Insuficiência mitral congênita","Q23.3 Insuf mitral congen",NA,NA,NA
+"Q25",1,NA,NA,NA,NA,NA,NA,NA,NA
+"Q257",1,NA,NA,NA,"Outras malformações congênitas da artéria pulmonar","Q25.7 Outr malformacoes congen da arteria pulmonar",NA,NA,NA
+"Q28",1,NA,NA,NA,NA,NA,NA,NA,NA
+"Q289",1,NA,NA,NA,"Malformação congênita não especificada do aparelho circulatório","Q28.9 Malform congen NE do aparelho circulatorio",NA,NA,NA
+"Q353",1,NA,NA,NA,"Fenda do palato mole","Q35.3 Fenda do palato mole",NA,NA,NA
+"Q423",1,NA,NA,NA,"Ausência, atresia e estenose congênita do ânus, sem fístula","Q42.3 Ausencia atresia estenose congen anus s/fist",NA,NA,NA
+"Q431",1,NA,NA,NA,"Doença de Hirschsprung","Q43.1 Doenc de Hirschsprung",NA,NA,NA
+"Q436",1,NA,NA,NA,"Fístula congênita do reto e do ânus","Q43.6 Fistula congen do reto e do anus",NA,NA,NA
+"Q44",1,NA,NA,NA,NA,NA,NA,NA,NA
+"Q52",1,NA,NA,NA,NA,NA,NA,NA,NA
+"Q531",1,NA,"M",NA,"Testículo não-descido, unilateral","Q53.1 Testiculo nao-descido unilateral",NA,NA,NA
+"Q56",1,NA,NA,NA,NA,NA,NA,NA,NA
+"Q61",1,NA,NA,NA,NA,NA,NA,NA,NA
+"Q641",1,NA,NA,NA,"Extrofia vesical","Q64.1 Extrofia vesical",NA,NA,NA
+"Q668",1,NA,NA,"N","Outras deformidades congênitas do pé","Q66.8 Outr deform congen do pe",NA,NA,NA
+"Q68",1,NA,NA,NA,NA,NA,NA,NA,NA
+"Q69",1,NA,NA,NA,NA,NA,NA,NA,NA
+"Q75",1,NA,NA,NA,NA,NA,NA,NA,NA
+"Q759",1,NA,NA,NA,"Malformação congênita não especificada dos ossos do crânio e da face","Q75.9 Malform congen NE dos ossos cranio e face",NA,NA,NA
+"Q85",1,NA,NA,NA,NA,NA,NA,NA,NA
+"Q89",1,NA,NA,NA,NA,NA,NA,NA,NA
+"Q90",1,NA,NA,NA,NA,NA,NA,NA,NA
+"R00",1,NA,NA,NA,NA,NA,NA,NA,NA
+"R02",1,NA,NA,NA,"Gangrena não classificada em outra parte","R02   Gangrena NCOP",NA,NA,NA
+"R040",1,NA,NA,NA,"Epistaxis","R04.0 Epistaxis",NA,NA,NA
+"R100",1,NA,NA,NA,"Abdome agudo","R10.0 Abdome agudo",NA,NA,NA
+"R16",1,NA,NA,NA,NA,NA,NA,NA,NA
+"R223",1,NA,NA,NA,"Tumefação, massa ou tumoração localizadas de membro superior","R22.3 Tumefacao massa tumoracao localiz membro sup",NA,NA,NA
+"R23",1,NA,NA,NA,NA,NA,NA,NA,NA
+"R560",1,NA,NA,NA,"Convulsões febris","R56.0 Convulsoes febris",NA,NA,NA
+"R57",1,NA,NA,NA,NA,NA,NA,NA,NA
+"R59",1,NA,NA,NA,NA,NA,NA,NA,NA
+"R80",1,NA,NA,NA,"Proteinúria isolada","R80   Proteinuria isolada",NA,NA,NA
+"S011",1,NA,NA,NA,"Ferimento da pálpebra e da região periocular","S01.1 Ferim da palpebra e da regiao periocular",NA,NA,NA
+"S020",1,NA,NA,NA,"Fratura da abóbada do crânio","S02.0 Frat da abobada do cranio",NA,NA,NA
+"S25",1,NA,NA,NA,NA,NA,NA,NA,NA
+"S31",1,NA,NA,NA,NA,NA,NA,NA,NA
+"S422",1,NA,NA,NA,"Fratura da extremidade superior do úmero","S42.2 Frat da extremidade super do umero",NA,NA,NA
+"S523",1,NA,NA,NA,"Fratura da diáfise do rádio","S52.3 Frat da diafise do radio",NA,NA,NA
+"S526",1,NA,NA,NA,"Fratura da extremidade distal do rádio e do cúbito [ulna]","S52.6 Frat da extremidade distal do radio e cubito",NA,NA,NA
+"S66",1,NA,NA,NA,NA,NA,NA,NA,NA
+"S68",1,NA,NA,NA,NA,NA,NA,NA,NA
+"S718",1,NA,NA,NA,"Ferimentos de outras partes e das não especificadas da cintura pélvica","S71.8 Ferim outr partes e das NE cintura pelvica",NA,NA,NA
+"S723",1,NA,NA,NA,"Fratura da diáfise do fêmur","S72.3 Frat da diafise do femur",NA,NA,NA
+"S728",1,NA,NA,NA,"Fraturas de outras partes do fêmur","S72.8 Frat de outr partes do femur",NA,NA,NA
+"S821",1,NA,NA,NA,"Fratura da extremidade proximal da tíbia","S82.1 Frat da extremidade proximal da tibia",NA,NA,NA
+"S822",1,NA,NA,NA,"Fratura da diáfise da tíbia","S82.2 Frat da diafise da tibia",NA,NA,NA
+"S828",1,NA,NA,NA,"Fratura de outras partes da perna","S82.8 Frat de outr partes da perna",NA,NA,NA
+"S96",1,NA,NA,NA,NA,NA,NA,NA,NA
+"T02",1,NA,NA,NA,NA,NA,NA,NA,NA
+"T022",1,NA,NA,NA,"Fraturas envolvendo regiões múltiplas de um membro superior","T02.2 Frat envolv regioes mult de um membro super",NA,NA,NA
+"T111",1,NA,NA,NA,"Ferimento do membro superior, nível não especificado","T11.1 Ferim do membro super nivel NE",NA,NA,NA
+"T16",1,NA,NA,NA,"Corpo estranho no ouvido","T16   Corpo estranho no ouvido",NA,NA,NA
+"T17",1,NA,NA,NA,NA,NA,NA,NA,NA
+"T20",1,NA,NA,NA,NA,NA,NA,NA,NA
+"T23",1,NA,NA,NA,NA,NA,NA,NA,NA
+"T260",1,NA,NA,NA,"Queimadura da pálpebra e da região periocular","T26.0 Queim da palpebra e da regiao periocular",NA,NA,NA
+"T492",1,NA,NA,NA,"Intoxicação por adstringentes e detergentes de uso local","T49.2 Adstringentes e detergentes de uso local",NA,NA,NA
+"T509",1,NA,NA,NA,"Intoxicação por outras drogas, medicamentos e substâncias biológicas e as não especificadas","T50.9 Outr drogas medicamentos subst biolog e NE",NA,NA,NA
+"T622",1,NA,NA,NA,"Efeito tóxico de ingestão de outras (partes de) plantas","T62.2 Ingestao de outr plantas",NA,NA,NA
+"T630",1,NA,NA,NA,"Efeito tóxico do veneno de serpente","T63.0 Veneno de serpente",NA,NA,NA
+"T659",1,NA,NA,NA,"Efeito tóxico de substância não especificada","T65.9 Subst NE",NA,NA,NA
+"T818",1,NA,NA,NA,"Outras complicações de procedimentos não classificadas em outra parte","T81.8 Outr complic de proced NCOP",NA,NA,NA
+"T846",1,NA,NA,NA,"Infecção e reação inflamatória devidas a dispositivo de fixação interna [qualquer local]","T84.6 Infecc reacao inflam dev disp fixacao int",NA,NA,NA
+"T95",1,NA,NA,NA,NA,NA,NA,NA,NA
+"Z38",1,NA,NA,NA,NA,NA,NA,NA,NA
+"Z43",1,NA,NA,NA,NA,NA,NA,NA,NA
+"Z470",1,NA,NA,NA,"Seguimento envolvendo remoção de placa de fratura e outros dispositivos de fixação interna","Z47.0 Seguim env rem placa frat outr disp fix int",NA,NA,NA
+"Z523",1,NA,NA,NA,"Doador de medula óssea","Z52.3 Doador de medula ossea",NA,NA,NA

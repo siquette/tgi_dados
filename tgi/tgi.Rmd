@@ -15,19 +15,78 @@ library("dplyr")
 library("readr")
 
 ```
+
 ```{r}
 tb1 <- "https://raw.githubusercontent.com/siquette/tgi_dados/main/graju/idade_0_5_2013.csv"
 
+tb2 <- "https://raw.githubusercontent.com/siquette/tgi_dados/main/graju/idade_0_5_2014.csv"
+
+tb3 <- "https://raw.githubusercontent.com/siquette/tgi_dados/main/graju/idade_0_5_2015.csv"
+
+tb4 <- "https://raw.githubusercontent.com/siquette/tgi_dados/main/graju/idade-0-5-2016.csv"
+
+tb5 <- "https://raw.githubusercontent.com/siquette/tgi_dados/main/graju/idade_0_5_2017.csv"
+
 grajau_2013 <- read_csv(tb1)
+
+grajau_2014 <- read.csv(tb2)
+
+grajau_2015 <- read.csv(tb3)
+
+grajau_2016 <- read.csv(tb4)
+
+grajau_2017 <- read_csv(tb5)
+
+
+
+library(readr)
+CID_10_SUBCATEGORIAS <- read_delim("~/tgi_dados/CID10CSV/CID-10-SUBCATEGORIAS.CSV", 
+    delim = ";", escape_double = FALSE, locale = locale(encoding = "ISO-8859-1"), 
+    trim_ws = TRUE)
+View(CID_10_SUBCATEGORIAS)
+
+CID_10_CATEGORIAS <- CID_10_SUBCATEGORIAS %>% rename(DIAG_PRINC=SUBCAT)
+```
+
+```{r}
+
 
 tab_ranklist_cid10_grajau2013 <- grajau_2013 %>% group_by(DIAG_PRINC) %>% tally() %>% arrange(-n)
 
+tab_ranklist_cid10_grajau2014 <- grajau_2014 %>% group_by(DIAG_PRINC) %>% tally() %>% arrange(-n)
 
+tab_ranklist_cid10_grajau2015 <- grajau_2015 %>% group_by(DIAG_PRINC) %>% tally() %>% arrange(-n)
 
+tab_ranklist_cid10_grajau2016 <- grajau_2016 %>% group_by(DIAG_PRINC) %>% tally() %>% arrange(-n)
 
+tab_ranklist_cid10_grajau2017 <- grajau_2017 %>% group_by(DIAG_PRINC) %>% tally() %>% arrange(-n)
 
+join_list2013 <- tab_ranklist_cid10_grajau2013 %>% left_join(CID_10_CATEGORIAS,"DIAG_PRINC")
+
+join_list2014 <- tab_ranklist_cid10_grajau2014 %>% left_join(CID_10_CATEGORIAS,"DIAG_PRINC")
+
+join_list2015 <- tab_ranklist_cid10_grajau2015 %>% left_join(CID_10_CATEGORIAS,"DIAG_PRINC")
+
+join_list2016 <- tab_ranklist_cid10_grajau2016 %>% left_join(CID_10_CATEGORIAS,"DIAG_PRINC")
+
+join_list2017 <- tab_ranklist_cid10_grajau2017 %>% left_join(CID_10_CATEGORIAS,"DIAG_PRINC")
                          
 ```
 
-
 ```{r}
+write.csv(join_list2013, file = "join_list2013.csv", sep = ",", na = "NA", quote = T, row.names = F ) 
+
+write.csv(join_list2014, file = "join_list2014.csv", sep = ",", na = "NA", quote = T, row.names = F ) 
+
+write.csv(join_list2015, file = "join_list2015.csv", sep = ",", na = "NA", quote = T, row.names = F ) 
+
+write.csv(join_list2016, file = "join_list2016.csv", sep = ",", na = "NA", quote = T, row.names = F ) 
+
+write.csv(join_list2017, file = "join_list2017.csv", sep = ",", na = "NA", quote = T, row.names = F ) 
+
+
+
+
+```
+
+
