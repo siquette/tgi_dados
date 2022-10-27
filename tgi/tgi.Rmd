@@ -1,0 +1,33 @@
+---
+title: "Untitled"
+output: html_document
+date: "2022-10-26"
+output:
+  html_document:
+    df_print: paged
+---
+
+library("tidyverse")
+```{r}
+library("tidylog")
+library("tidyverse")
+library("dplyr")
+library("readr")
+
+```
+```{r}
+tb1 <- "https://raw.githubusercontent.com/siquette/tgi_dados/main/graju/idade_0_5_2013.csv"
+
+grajau_2013 <- read_csv(tb1)
+
+tab_ranklist_cid10_grajau2013 <- grajau_2013 %>% group_by(DIAG_PRINC) %>% tally() %>% arrange(-n)
+
+
+
+
+
+                         
+```
+
+
+```{r}
