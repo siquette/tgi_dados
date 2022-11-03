@@ -1,0 +1,107 @@
+---
+title: "Untitled"
+output: html_document
+date: "2022-11-02"
+output:
+  html_document:
+    df_print: paged
+---
+
+```{r}
+
+
+
+library("tidylog")
+library("tidyverse")
+library("dplyr")
+library("readr")
+
+```
+
+```{r}
+
+tb1c <- "https://raw.githubusercontent.com/siquette/tgi_dados/main/capao/todas%20idades/2013.csv"
+
+tb2c <- "https://raw.githubusercontent.com/siquette/tgi_dados/main/capao/todas%20idades/2014.csv"
+
+tb3c <- "https://raw.githubusercontent.com/siquette/tgi_dados/main/capao/todas%20idades/2015.csv"
+
+tb4c <- "https://raw.githubusercontent.com/siquette/tgi_dados/main/capao/todas%20idades/2016.csv"
+
+tb5c <- "https://raw.githubusercontent.com/siquette/tgi_dados/main/capao/todas%20idades/2017.csv"
+
+tb_cid_10 <- "https://raw.githubusercontent.com/siquette/tgi_dados/main/CID-10-SUBCATEGORIAS.CSV"
+
+
+
+
+
+
+```
+```{r}
+
+CID_10_SUBCATEGORIAS <- read_delim(tb_cid_10, 
+    delim = ";", escape_double = FALSE, locale = locale(encoding = "ISO-8859-1"), 
+    trim_ws = TRUE)
+View(CID_10_SUBCATEGORIAS)
+
+
+CID_10_SUBCATEGORIAS <- CID_10_SUBCATEGORIAS  %>% select(SUBCAT, DESCRICAO)
+
+CID_10_SUBCATEGORIAS <- CID_10_SUBCATEGORIAS %>% rename(DIAG_PRINC=SUBCAT)
+
+```
+
+```{r}
+capao1 <- read.csv(tb1c)
+
+capao2 <- read.csv(tb2c)
+
+capao3 <- read.csv(tb3c)
+
+capao4 <- read.csv(tb4c)
+
+capao5 <- read.csv(tb5c)
+
+full_capao <- capao1 %>%
+              left_join (capao2, by="ID") %>%
+               left_join (capao3, by="ID") %>% left_join(capao4, by="ID") %>% left_join(capao5, by="ID")
+
+#full_capao <- join_all(list(capao1, capao2, capao3, capao4, capao5), by='ID', type='left')
+
+full_capao <- full_capao %>% left_join(CID_10_SUBCATEGORIAS,"DIAG_PRINC")
+
+
+
+ 
+```
+```{r}
+tb1g <- "https://raw.githubusercontent.com/siquette/tgi_dados/main/graju/todas_idades/2013.csv"
+
+tb2g <- "https://raw.githubusercontent.com/siquette/tgi_dados/main/graju/todas_idades/2014.csv"
+
+tb3g <- "https://raw.githubusercontent.com/siquette/tgi_dados/main/graju/todas_idades/2015.csv"
+
+tb4g <- "https://raw.githubusercontent.com/siquette/tgi_dados/main/graju/todas_idades/2016.csv"
+
+tb5g <- "https://raw.githubusercontent.com/siquette/tgi_dados/main/graju/todas_idades/2017.csv"
+
+grajau1 <- read.csv(tb1g)
+
+grajau2 <- read.csv(tb2g)
+
+grajau3 <- read.csv(tb3g)
+
+grajau4 <- read.csv(tb4g)
+
+grajau5 <- read.csv(tb5g)
+
+full_grajau <- grajau1 %>%
+              left_join (grajau2, by="ID") %>%
+               left_join (grajau3, by="ID") %>% left_join(grajau4, by="ID") %>% left_join(grajau5, by="ID")
+
+full_grajau <- full_grajau %>% left_join(CID_10_SUBCATEGORIAS,"DIAG_PRINC")
+
+```
+
+
