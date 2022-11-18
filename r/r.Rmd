@@ -61,18 +61,28 @@ capao3 <- read.csv(tb3c)
 
 capao4 <- read.csv(tb4c)
 
-capao5 <- read.csv(tb5c)
+capao5 <- read.csv(tb5c) %>% rename(SUB_PREF=SUBPREF, DIST=DISTRITO)
 
-full_capao <- capao1 %>%
-              left_join (capao2, by="ID") %>%
-               left_join (capao3, by="ID") %>% left_join(capao4, by="ID") %>% left_join(capao5, by="ID")
+capao1 <- capao1 %>% select(ID, LONG, LAT, COD_CEM, ANO_CMPT, MES_CMPT, CGC_HOSP, MUNIC_RES, SEXO, DT_INTER, DT_SAIDA, DIAG_PRINC, IDADE, DIAS_PERM,  SUB_PREF, DIST ) 
 
-#full_capao <- join_all(list(capao1, capao2, capao3, capao4, capao5), by='ID', type='left')
+capao2 <- capao2 %>% select(ID, LONG, LAT, COD_CEM, ANO_CMPT, MES_CMPT, CGC_HOSP, MUNIC_RES, SEXO, DT_INTER, DT_SAIDA, DIAG_PRINC, IDADE, DIAS_PERM,  SUB_PREF, DIST ) 
 
-full_capao <- full_capao %>% left_join(CID_10_SUBCATEGORIAS,"DIAG_PRINC")
+capao3 <- capao3 %>% select(ID, LONG, LAT, COD_CEM, ANO_CMPT, MES_CMPT, CGC_HOSP, MUNIC_RES, SEXO, DT_INTER, DT_SAIDA, DIAG_PRINC, IDADE, DIAS_PERM,  SUB_PREF, DIST ) 
+
+capao4 <- capao4 %>% select(ID, LONG, LAT, COD_CEM, ANO_CMPT, MES_CMPT, CGC_HOSP, MUNIC_RES, SEXO, DT_INTER, DT_SAIDA, DIAG_PRINC, IDADE, DIAS_PERM,  SUB_PREF, DIST ) 
+
+capao5 <- capao5 %>% select(ID, LONG, LAT, COD_CEM, ANO_CMPT, MES_CMPT, CGC_HOSP, MUNIC_RES, SEXO, DT_INTER, DT_SAIDA, DIAG_PRINC, IDADE, DIAS_PERM,  SUB_PREF, DIST ) 
+
+capao_full <- rbind(capao1, capao2, capao3, capao4, capao5)
 
 
 
+
+
+capao_full <- CID_10_SUBCATEGORIAS %>% left_join(capao_full,"DIAG_PRINC")
+
+
+  
  
 ```
 ```{r}
@@ -88,20 +98,222 @@ tb5g <- "https://raw.githubusercontent.com/siquette/tgi_dados/main/graju/todas_i
 
 grajau1 <- read.csv(tb1g)
 
-grajau2 <- read.csv(tb2g)
+grajau2 <- read.csv(tb2g) 
 
 grajau3 <- read.csv(tb3g)
 
 grajau4 <- read.csv(tb4g)
 
-grajau5 <- read.csv(tb5g)
+grajau5 <- read.csv(tb5g)%>% rename(SUB_PREF=SUBPREF, DIST=DISTRITO)
 
-full_grajau <- grajau1 %>%
-              left_join (grajau2, by="ID") %>%
-               left_join (grajau3, by="ID") %>% left_join(grajau4, by="ID") %>% left_join(grajau5, by="ID")
 
-full_grajau <- full_grajau %>% left_join(CID_10_SUBCATEGORIAS,"DIAG_PRINC")
+grajau1 <- grajau1 %>% select(ID, LONG, LAT, COD_CEM, ANO_CMPT, MES_CMPT, CGC_HOSP, MUNIC_RES, SEXO, DT_INTER, DT_SAIDA, DIAG_PRINC, IDADE, DIAS_PERM,  SUB_PREF, DIST ) 
+
+grajau2 <- grajau2 %>% select(ID, LONG, LAT, COD_CEM, ANO_CMPT, MES_CMPT, CGC_HOSP, MUNIC_RES, SEXO, DT_INTER, DT_SAIDA, DIAG_PRINC, IDADE, DIAS_PERM,  SUB_PREF, DIST ) 
+
+grajau3 <- grajau3 %>% select(ID, LONG, LAT, COD_CEM, ANO_CMPT, MES_CMPT, CGC_HOSP, MUNIC_RES, SEXO, DT_INTER, DT_SAIDA, DIAG_PRINC, IDADE, DIAS_PERM,  SUB_PREF, DIST ) 
+
+grajau4 <- grajau4 %>% select(ID, LONG, LAT, COD_CEM, ANO_CMPT, MES_CMPT, CGC_HOSP, MUNIC_RES, SEXO, DT_INTER, DT_SAIDA, DIAG_PRINC, IDADE, DIAS_PERM,  SUB_PREF, DIST ) 
+
+grajau5 <- grajau5 %>% select(ID, LONG, LAT, COD_CEM, ANO_CMPT, MES_CMPT, CGC_HOSP, MUNIC_RES, SEXO, DT_INTER, DT_SAIDA, DIAG_PRINC, IDADE, DIAS_PERM,  SUB_PREF, DIST ) 
+
+grajau_full <- rbind(grajau1, grajau2, grajau3, grajau4, grajau5)
+
+
+
+
+grajau_full <- CID_10_SUBCATEGORIAS %>% left_join(grajau_full,"DIAG_PRINC")
+
+write.csv(grajau_full, file = "grajau_full.csv", sep = ",", na = "NA", quote = T, row.names = F ) 
+
+grajau_idade5 <- grajau_full %>% filter(IDADE <=5) %>% filter(DIAG_PRINC == "A09") %>% select(LAT, LONG)
+
+write.csv(grajau_idade5, file = "grajau_idade5.csv", sep = ",", na = "NA", quote = T, row.names = F ) 
+```
+```{r}
+#install.packages("rgdal")
+
+
+#install.packages('spatstat')
+#install.packages("spatstat")
+#install.packages("maptools")
+#install.packages("raster")
+#install.packages("sf")
+
+
+
+#install.packages
+
+#install.packages("tmap")
+
+library("rgdal")
+
+
+#install.packages('spatstat')
+library("spatstat")
+library("maptools")
+library("raster")
+library("sf")
+
+library("readr")
+library("dplyr")
+
+library("geobr")
+library("maptools")
+
+library("tmap")
 
 ```
+
+```{r}
+# Load data ----
+
+grajau_sf <- read_sf("MERGE.shp",) %>% 
+  st_transform(crs = 32723)
+
+grajau_sp <- as(grajau_sf, "Spatial")
+
+ppp<- as(grajau_sp,"ppp")
+
+plot(ppp)
+
+
+grajau_g <- envelope(test_ppp, fun=Gest)
+
+plot(grajau_g)
+
+grajau_f <- envelope(test_ppp, fun = Fest)
+
+plot(grajau_f)
+
+
+
+
+
+
+#polgno 
+
+sp_g <- read_sf("agoravai_grajau.shp",) %>% 
+  st_transform(crs = 32723)
+
+sp_gwin <- as.owin(sp_g)
+
+#############
+
+
+test_ppp <- ppp(
+  st_coordinates(grajau_sf)[,1], 
+  st_coordinates(grajau_sf)[,2], 
+  window = sp_gwin)
+
+plot(test_ppp)
+
+ppp_unmark <- unmark(ppp)
+
+plot(ppp_unmark)
+
+L <- envelope(test_ppp, Linhom, nsim = 100, verbose = T)
+
+
+plot(L)
+```
+
+```{r}
+# Load data ----
+idade_0_5_20177 <- read_csv("C:/Users/rodri/Downloads/Nova pasta/idade_0_5_2017.csv")
+#View(idade_0_5_2017)
+
+idade_0_5_201777 <- idade_0_5_20177 %>% filter(IDADE <=5) %>% filter(DIAG_PRINC == "A09") %>% select(X, Y)
+
+
+
+
+#grajau_sf <- idade_0_5_201777 %>%  st_as_sf(coords = c("LONG", "LAT"), crs = 33198) 
+
+
+
+grajau_sf <- idade_0_5_201777 %>% 
+  st_as_sf(coords = c("X", "Y"), crs = 4674) %>% 
+  st_transform(crs = 32723)
+
+grajau_sf <- grajau_sf %>% 
+  st_transform(crs = 32723)
+
+plot(grajau_sf)
+
+
+sp <- as(grajau_sf, "Spatial")
+
+sp <- sp%>% 
+  st_transform(crs = 32723)
+
+plot(sp)
+
+ppp<- as(sp,"ppp")
+
+
+plot(ppp )
+grajau_sf
+
+plot(grajau_sf)
+
+grajau_ppp <- as.ppp(sp, fatal = TRUE) 
+
+
+
+
+test_g <- read_sf("MERGE.shp",) %>% 
+  st_transform(crs = 32723)
+
+
+testsp <- as(test_g, "Spatial")
+
+
+
+test_ppp <- ppp(
+  st_coordinates(test_g)[,1], 
+  st_coordinates(test_g)[,2], 
+  window = sp_gwin)
+
+plot(test_ppp)
+
+
+
+
+sp_g <- read_sf("agoravai_grajau.shp",) %>% 
+  st_transform(crs = 32723)
+
+ppp <- as(sp,"ppp")
+
+plot(sp_g)
+
+#sp_sp <- as(sp_g, "Spatial") 
+
+
+
+sp_gwin <- as.owin(sp_g)
+
+
+
+fc_ppp <- ppp(
+  st_coordinates(grajau_sf)[,1], 
+  st_coordinates(grajau_sf)[,2], 
+  window = sp_gwin)
+
+
+plot(fc_ppp)
+
+class(fc_ppp)
+
+
+
+L <- envelope(test_ppp, Linhom, nsim = 100, verbose = T)
+
+
+plot(L)
+
+
+```
+
 
 
